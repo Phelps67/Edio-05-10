@@ -97,3 +97,66 @@ console.log(10 === "10")
 
 //Número 2
 
+console.log(25 !== "25")
+
+//Número 3
+
+let temCarteira = true
+let maiorDeIdade = false
+
+let podeConduzir = temCarteira && maiorDeIdade
+
+console.log(podeConduzir)
+
+//Número 4
+
+let satisfazCondicao = temCarteira || maiorDeIdade
+
+console.log(satisfazCondicao)
+
+//Número 5
+
+let ativo = true
+
+console.log(!ativo)
+
+//PARTE 4
+
+//Número 1
+
+console.log("5" + 3)
+
+//Número 2
+
+console.log("10" - 2)
+
+//Número 3
+
+let valor = Number("123.45")
+
+let resultadog = valor + 10
+
+console.log(resultado)
+
+//Número 4
+
+let resultadof = Boolean(0)
+
+console.log(resultado)
+
+//Número 5
+
+let saldo = 100
+
+saldo += 50
+console.log(saldo)
+
+saldo -= 20
+console.log(saldo)
+
+saldo *= 2
+console.log(saldo)
+
+saldo /= 4
+console.log(saldo)
+
