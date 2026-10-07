@@ -75,10 +75,10 @@ console.log(nomeCompleto)
 
 //Número 4
 
-let primeiroNome = "João"
-let ultimoNome = "Silva"
+let primeironome = "João"
+let ultimonome = "Silva"
 
-let nomeCompleto = `${primeiroNome} ${ultimoNome}`
+let nomecompleto = `${primeiroNome} ${ultimoNome}`
 
 console.log(nomeCompleto)
 
